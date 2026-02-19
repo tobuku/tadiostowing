@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tadiostowing.biz/sitemap.xml
